@@ -43,6 +43,8 @@ Hi! I'm Alex — a web enthusiast who loves simple, readable design.
 
 ---
 
+[⬇️ Download Test File (TXT)](assets/test.txt)
+
 ## 📬 Contact
 
 Want to get in touch?
