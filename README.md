@@ -1,58 +1,58 @@
-# 🌐 My Simple Website
+# Indolinium
 
-Welcome to my simple website built with **Markdown**!
+![Indolinium Logo](images/logo.png)
 
----
-
-## 🏠 Home
-
-This is the home section of my website.  
-You can write *text*, add **links**, and even use emojis 😄.
-
-[Learn more about me](#about-me)
+> **Indolinium** is a Windows app designed as a electronic lab journal
+> Fast, efficient, and focused on user-friendliness.
 
 ---
 
-## 📸 Gallery
+## 🚀 Download
 
-Here are some cool images:
+👉 **[Download Indolinium](releases/Indolinium.exe)**  
 
-![Sunset](https://images.unsplash.com/photo-1501973801540-537f08ccae7b?w=600)
-![Forest](https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600)
-
----
-
-## 💬 Blog Posts
-
-### My First Post
-
-**Date:** October 25, 2025
-
-> Markdown makes writing web content *easy and fun!*  
-> You can format text, create lists, and link between pages.
+*(Click the link to download the latest version.)*
 
 ---
 
-## 👤 About Me
+## 🖼️ Screenshots
 
-Hi! I'm Alex — a web enthusiast who loves simple, readable design.
+<div align="center">
 
-- 🧑‍💻 Developer
-- 📚 Writer
-- ☕ Coffee fan
+| ![Screenshot 1](images/screenshot1.png) | ![Screenshot 2](images/screenshot2.png) |
+|:--:|:--:|
+| **Start Screen** | **Analytics Section** |
 
----
+![Screenshot 3](images/screenshot3.png)  
+*Advanced settings and tools*
 
-[⬇️ Download Test File (TXT)](assets/test.txt)
-
-## 📬 Contact
-
-Want to get in touch?
-
-- Email: [alex@example.com](mailto:alex@example.com)
-- GitHub: [@alexdev](https://github.com/alexdev)
-- Twitter: [@alex_codes](https://twitter.com/alex_codes)
+</div>
 
 ---
 
-© 2025 My Simple Website
+## 🔧 Features
+
+- ✅ **Electronic Lab Journal** Design and keep track of all your synthesis experiments.
+- 📊 **Automatic reaction scheme** Draws a reaction scheme based on the components which you select.
+- ⚡ **High performance** through native execution   
+- 💾 **Portable** – no installation required  
+
+---
+
+## 💡 Installation
+
+1. Download **Indolinium.exe** from the link above.  
+2. Run it directly (no setup needed).  
+3. Follow the on-screen instructions.  
+
+---
+
+## 🧑‍💻 About the Project
+
+Feedback and suggestions are always welcome!
+
+📫 **Contact:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+© 2025 **Indolinium Project** — All rights reserved.
