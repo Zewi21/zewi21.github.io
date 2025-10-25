@@ -19,12 +19,12 @@
 
 <div align="center">
 
-| ![Screenshot 1](images/screenshot1.png) | ![Screenshot 2](images/screenshot2.png) |
+| ![Screenshot 1](images/screenshot2.png) | ![Screenshot 2](images/screenshot3.png) |
 |:--:|:--:|
-| **Start Screen** | **Analytics Section** |
+| **Create your own compound library** | **Add new compounds from image files** |
 
-![Screenshot 3](images/screenshot3.png)  
-*Advanced settings and tools*
+![Screenshot 3](images/screenshot1.png)  
+*Design reactions in the reaction library*
 
 </div>
 
